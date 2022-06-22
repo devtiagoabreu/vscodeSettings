@@ -1,3 +1,5 @@
+//Arquivo > Preferências > Configurações ou Paleta de Comandos ( Ctrl+Shift+P ) --> settings.json
+
 {
   "emmet.syntaxProfiles" : {
     "javascript" : "jsx"
